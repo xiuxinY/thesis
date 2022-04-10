@@ -23,7 +23,7 @@ def vANN(name, nodes):
     print('Nodes: {}'.format(nodes))
 
     def R2_Adj(y_true, y_pred):
-        n, k = 863, 7
+        n, k = len(y_true), 7
         R2 = r2_score(y_true, y_pred)
         R2_Adj = 1 - (1 - R2) * (n - 1) / (n - k - 1)
         return R2_Adj
