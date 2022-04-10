@@ -1,0 +1,12 @@
+{
+    "data": [
+        0.016456600396102104,
+        0.3248806494141344,
+        0.6586627501897634
+    ],
+    "hyperparameter": [
+        "nb_hidden_layers",
+        "reg_dropout",
+        "nb_hidden_nodes"
+    ]
+}
