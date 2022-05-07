@@ -15,13 +15,6 @@ thesis
 ├── Appendix_F.ipynb
 ├── Appendix_G.ipynb
 ├── LICENSE
-├── ProcessPerformanceModelTrainSave
-│   ├── Checkpoints
-│   ├── History
-│   ├── ModelExperiments.py
-│   ├── ProcessPerformancesSamples
-│   ├── Results
-│   └── scalar_result_nodes.xlsx
 ├── README.md
 ├── datas_and_plots
 │   ├── All_Plots.ipynb
